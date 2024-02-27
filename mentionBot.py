@@ -5,9 +5,9 @@
 
 from telethon import TelegramClient, events
 
-api_id = 0
-api_hash = '0'
-bot_token = '0'
+api_id = 20703227
+api_hash = d0f8999a2868b5b74136c851ba188c86
+bot_token = 6938926948:AAEKnxBTgQVuowCrvpqlmd_VfyruykBh36M
 
 MENTION_LIMIT = 4
 
